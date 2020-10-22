@@ -1,0 +1,23 @@
+{
+  "name": "ordago",
+  "version": "1.0.0",
+  "description": "Program to easily create professional and hackable web pages.",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGCardelus/ordago.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGCardelus/ordago/issues"
+  },
+  "homepage": "https://github.com/JGCardelus/ordago#readme",
+  "devDependencies": {
+    "electron": "^10.1.4"
+  }
+}
