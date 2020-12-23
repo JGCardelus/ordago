@@ -1,4 +1,11 @@
-#canvas {
+#ordago-canvas {
     width: 100vw;
-    height: 90vh;
 }
+
+.i_rock {
+    width: 100px;
+    height: 100px;
+
+    background: black;
+}
+

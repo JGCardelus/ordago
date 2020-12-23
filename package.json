@@ -19,5 +19,6 @@
   "homepage": "https://github.com/JGCardelus/ordago#readme",
   "devDependencies": {
     "electron": "^10.1.4"
-  }
+  },
+  "dependencies": {}
 }
